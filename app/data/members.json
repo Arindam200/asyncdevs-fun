@@ -44,6 +44,15 @@
       "github": "chromavisionmusic",
       "skills": ["Python", "HTML", "CSS", "JavaScript"],
       "bio": "Learning Web Development"
+    },
+    {
+      "id": 6,
+      "name": "Abhra Roy",
+      "role": "Student at MAKAUT, WB (CSE)",
+      "avatar": "https://avatars.githubusercontent.com/u/181045335?v=4",
+      "github": "Abhra5002",
+      "skills": [ "HTML", "CSS", "JavaScript"],
+      "bio": "Learning coding"
     }
   ]
 }
