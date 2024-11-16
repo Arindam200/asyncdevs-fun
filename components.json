@@ -18,3 +18,12 @@
     "hooks": "@/hooks"
   }
 }
+{
+  "id":6,
+  "name":"Dipon Mitra",
+  "role":"student",
+  "avatar":"https://avatars.githubusercontent.com/u/185927877?v=4&size=64",
+  "github":"10112004Dipon",
+  "skills":["Python","HTML","CSS"],
+  "bio":".."
+}
