@@ -44,6 +44,15 @@
       "github": "chromavisionmusic",
       "skills": ["Python", "HTML", "CSS", "JavaScript"],
       "bio": "Learning Web Development"
+    },
+    {
+      "id": 5,
+      "name": "Rahul Ghosh",
+      "role": "Student of MAKAUT,WB CSE",
+      "avatar": "https://avatars.githubusercontent.com/u/185926321?v=4",
+      "github": "Rahulghosh08",
+      "skills": ["c"],
+      "bio": "Automating everything that can be automated"
     }
   ]
 }
