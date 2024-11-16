@@ -44,6 +44,15 @@
       "github": "chromavisionmusic",
       "skills": ["Python", "HTML", "CSS", "JavaScript"],
       "bio": "Learning Web Development"
+    },
+    {
+      "id": 11,
+      "name": "Sheetal Bajaj",
+      "role": "Student at MAKAUT,WB  Btech IT",
+      "avatar":"https://avatars.githubusercontent.com/u/183822317?v=4",
+      "github":"Sheetal-cell",
+      "skills": ["HTML", "CSS","C++"],
+      "bio": "Beginner."
     }
   ]
 }
