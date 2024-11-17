@@ -35,6 +35,15 @@
       "github": "davidops",
       "skills": ["Docker", "Kubernetes", "AWS"],
       "bio": "Automating everything that can be automated"
+    },
+    {
+    "id": 5,
+      "name": "Faeq fatmi",
+      "role": "Student at MAKAUT,WB CSE",
+      "avatar":"https://avatars.githubusercontent.com/u/185936380?v=4",
+      "github":"Faeq-Fatmi",
+      "skills": ["HTML", "CSS"],
+      "bio": "Entering the coding world"
     }
   ]
 }
