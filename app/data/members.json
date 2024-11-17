@@ -44,6 +44,15 @@
       "github": "chromavisionmusic",
       "skills": ["Python", "HTML", "CSS", "JavaScript"],
       "bio": "Learning Web Development"
+    },
+    {
+      "id": 6,
+      "name": "Aryan Kadam",
+      "role": "Web Developer",
+      "avatar": "https://avatars.githubusercontent.com/u/113440600?v=4",
+      "github": "aryyan0701",
+      "skills": ["Next.js", "React", "TypeScript", "Mongodb"],
+      "bio": "Passionate about building and scaling web apps with modern technologies"
     }
   ]
 }
