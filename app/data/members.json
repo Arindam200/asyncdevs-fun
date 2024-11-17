@@ -31,9 +31,9 @@
       "id": 4,
       "name": "Snehasis Ghosh",
       "role": "Student at MAKAUT,WB  Btech CSE",
-      "avatar":"https://avatars.githubusercontent.com/u/185935753?v=4",
-      "github":"SnehasisGh0sh",
-      "skills": ["HTML", "CSS","Python"],
+      "avatar": "https://avatars.githubusercontent.com/u/185935753?v=4",
+      "github": "SnehasisGh0sh",
+      "skills": ["HTML", "CSS", "Python"],
       "bio": "Beginner"
     },
     {
@@ -41,7 +41,7 @@
       "name": "Debangshu Das",
       "role": "Student at MAKAUT, WB (CSE)",
       "avatar": "https://avatars.githubusercontent.com/u/146982673?v=4",
-      "github": "chromavisionmusic",
+      "github": "itz-me-debangshu",
       "skills": ["Python", "HTML", "CSS", "JavaScript"],
       "bio": "Learning Web Development"
     }
