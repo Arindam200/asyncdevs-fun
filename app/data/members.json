@@ -45,5 +45,14 @@
       "skills": ["Python", "HTML", "CSS", "JavaScript"],
       "bio": "Learning Web Development"
     }
+    {
+      "id": 8,
+      "name": "Debopam Sarkar",
+      "role": "B. Tech Student at MAKAUT",
+      "avatar": "https://avatars.githubusercontent.com/u/185925239?v=4",
+      "github": "debopam525",
+      "skills": ["Java"],
+      "bio": "Student"
+    }
   ]
 }
