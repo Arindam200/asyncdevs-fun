@@ -45,5 +45,14 @@
       "skills": ["Python", "HTML", "CSS", "JavaScript"],
       "bio": "Learning Web Development"
     }
+    {
+      "id": 6,
+      "name": "Pappu Sarkar",
+      "role": "Student",
+      "avatar": "https://avatars.githubusercontent.com/u/183818111?v=4&size=64",
+      "github": "pappu598",
+      "skills": ["c++"],
+      "bio": "Quick Learner"
+    }
   ]
 }
