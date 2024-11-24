@@ -44,6 +44,15 @@
       "github": "chromavisionmusic",
       "skills": ["Python", "HTML", "CSS", "JavaScript"],
       "bio": "Learning Web Development"
-    }
+    },
+    {
+      "id": 6,
+      "name": "Prolayjit Biswas",
+      "role": "Student at MAKAUT,WB",
+      "avatar": "https://avatars.githubusercontent.com/u/181266798?v=4",
+      "github": "Prolayjit-B14",
+      "skills": ["c/C++"],
+      "bio": "Freshers"
+    },
   ]
 }
