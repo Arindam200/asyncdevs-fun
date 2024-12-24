@@ -63,5 +63,14 @@
       "skills": ["Next.js", "React", "TypeScript", "JavaScript", "C++"],
       "bio": "Love building products"
     }
+    {
+      "id": 8,
+      "name": "Debopam Sarkar",
+      "role": "B. Tech Student at MAKAUT",
+      "avatar": "https://avatars.githubusercontent.com/u/185925239?v=4",
+      "github": "debopam525",
+      "skills": ["Java"],
+      "bio": "Student"
+    }
   ]
 }
