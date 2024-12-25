@@ -62,6 +62,14 @@
       "github": "Tuhin114",
       "skills": ["Next.js", "React", "TypeScript", "JavaScript", "C++"],
       "bio": "Love building products"
-    }
+    },
+    { "id": 8,
+    "name": "Amardeep kumar",
+    "role": "Student",
+    "avatar": "https://avatars.githubusercontent.com/u/90820614?s=400&v=4",
+    "github": "Amardeep1792",
+    "skills": ["Python"],
+    "bio": "Beginner and learner"
+   }
   ]
 }
