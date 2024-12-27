@@ -89,6 +89,15 @@
       "github": "debopam525",
       "skills": ["Java"],
       "bio": "Student"
+    },
+    {
+      "id": 21,
+      "name": "Suporno Maiti",
+      "role": "Learner",
+      "avatar": "https://avatars.githubusercontent.com/u/145287218?v=4&",
+      "github": "SupornoMaiti",
+      "skills": ["C", "C++", "Java"],
+      "bio": "Love building projects"
     }
   ]
 }
