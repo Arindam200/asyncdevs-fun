@@ -31,9 +31,9 @@
       "id": 4,
       "name": "Snehasis Ghosh",
       "role": "Student at MAKAUT,WB  Btech CSE",
-      "avatar":"https://avatars.githubusercontent.com/u/185935753?v=4",
-      "github":"SnehasisGh0sh",
-      "skills": ["HTML", "CSS","Python"],
+      "avatar": "https://avatars.githubusercontent.com/u/185935753?v=4",
+      "github": "SnehasisGh0sh",
+      "skills": ["HTML", "CSS", "Python"],
       "bio": "Beginner"
     },
     {
@@ -60,7 +60,7 @@
       "role": "Student",
       "avatar": "https://avatars.githubusercontent.com/u/183822317?v=4",
       "github": "Sheetal-cell",
-      "skills": ["c++","web dev","DSA"],
+      "skills": ["c++", "web dev", "DSA"],
       "bio": " As Beginner"
     },
     {
@@ -80,6 +80,15 @@
       "github": "debopam525",
       "skills": ["Java"],
       "bio": "Student"
+    },
+    {
+      "id": 9,
+      "name": "Suporno Maiti",
+      "role": "Student",
+      "avatar": "https://avatars.githubusercontent.com/u/145287218?v=4&size=460",
+      "github": "SupornoMaiti",
+      "skills": ["C", "C++", "Java"],
+      "bio": "Love building projects"
     }
   ]
 }
