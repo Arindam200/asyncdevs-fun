@@ -70,7 +70,53 @@
       "avatar":"https://avatars.githubusercontent.com/u/185935753?v=4",
       "github":"SnehasisGh0sh",
       "skills": ["HTML", "CSS","Python"],
-     
-},
-    ]
+      "bio": "Quick Learner"
+    },
+    {
+      "id": 33,
+      "name": "Sheetal Bajaj",
+      "role": "Student",
+      "avatar": "https://avatars.githubusercontent.com/u/183822317?v=4",
+      "github": "Sheetal-cell",
+      "skills": ["c++","web dev","DSA"],
+      "bio": " As Beginner"
+    },
+    {
+      "id": 7,
+      "name": "Tuhin Poddar",
+      "role": "Full-Stack Dev",
+      "avatar": "https://avatars.githubusercontent.com/u/132370086?v=4",
+      "github": "Tuhin114",
+      "skills": ["Next.js", "React", "TypeScript", "JavaScript", "C++"],
+      "bio": "Love building products"
+    },
+    {
+      "id": 9,
+      "name": "Shreyaushi Das",
+      "role": "Student at MAKAUT,WB IT",
+      "avatar":"https://avatars.githubusercontent.com/u/185457484?v=4",
+      "github":"shreyaushi-Das",
+      "skills": ["java", "c++"],
+      "bio": "Btech IT student,interested in python,ml"
+    },
+    {
+      "id": 8,
+      "name": "Debopam Sarkar",
+      "role": "B. Tech Student at MAKAUT",
+      "avatar": "https://avatars.githubusercontent.com/u/185925239?v=4",
+      "github": "debopam525",
+      "skills": ["Java"],
+      "bio": "Student"
+    },
+    {
+      "id": 10,
+       "Name": "Dipon Mitra",
+       "Role": "B.S. at IIT Madras and B.Tech at Makaut",
+       "avatar":"https://github.com/10112004-Dipon",
+       "github":"10112004Dipon"  , 
+       "skills":"Python, Html, Css, ML and AI",
+       "Bio":"student"
+    }
+  ]
 }
+
