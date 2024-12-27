@@ -98,6 +98,15 @@
       "github": "Prolayjit-B14",
       "skills": ["c/C++"],
       "bio": "Fresher"
+    },
+    {
+      "id": 11,
+      "name": "Tanay saha",
+      "role": "Student at MAKAUT,WB CSE",
+      "avatar":"https://avatars.githubusercontent.com/u/183903243?v=4",
+      "github":"Tanaygit646",
+      "skills": ["HTML", "CSS"],
+      "bio": "Fresher"
     }
   ]
 }
