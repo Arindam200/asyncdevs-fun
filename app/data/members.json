@@ -98,6 +98,15 @@
       "github": "Prolayjit-B14",
       "skills": ["c/C++"],
       "bio": "Fresher"
+    },
+    {
+      "id": 11,
+      "name": "Rupayan Das",
+      "role": "B.Tech Student at MAKAUT,WB IT",
+      "avatar":"https://avatars.githubusercontent.com/u/178875592?s=400&u=6c4f5d799b47c3ecfec80113e0269b84d52d300d&v=4",
+      "github":"Rupayan-san",
+      "skills": ["Python", "JS"],
+      "bio": "Undergraduate"
     }
   ]
 }
