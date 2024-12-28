@@ -110,14 +110,6 @@
     },
     {
       "id": 10,
-<<<<<<< HEAD
-       "Name": "Dipon Mitra",
-       "Role": "B.S. at IIT Madras and B.Tech at Makaut",
-       "avatar":"https://github.com/10112004-Dipon",
-       "github":"10112004Dipon"  , 
-       "skills":"Python, Html, Css, ML and AI",
-       "Bio":"student"
-=======
       "name": "Prolayjit Biswas",
       "role": "B.Tech Student at MAKAUT, WB",
       "avatar": "https://avatars.githubusercontent.com/u/181266798?v=4",
@@ -133,7 +125,15 @@
       "github": "Abhra5002",
       "skills": ["HTML, CSS, JS"],
       "bio": "Student"
->>>>>>> ec76ec96a49b84d75d2972c791ab336b9287cd18
+    },
+    {
+      "id": 15,
+      "name": "Dipon Mitra",
+      "role": "student at Makaut",
+      "avatar": "https://wallpaperaccess.com/full/2111331.jpg",
+      "github": "10112004Dipon",
+      "skills": ["HTML","CSS", "Python"],
+      "bio": "Student"
     }
   ]
 }
