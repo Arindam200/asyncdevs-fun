@@ -127,6 +127,15 @@
       "bio": "Student"
     },
     {
+      "id": 12,
+      "name": "Ankita Sarkar",
+      "role": "student at Makaut",
+      "avatar": "https://avatars.githubusercontent.com/u/187500278?v=4",
+      "github": "Ankita1305del",
+      "skills": ["HTML","CSS", "Python"],
+      "bio": "Student"
+    },
+    {
       "id": 15,
       "name": "Dipon Mitra",
       "role": "student at Makaut",
