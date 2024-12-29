@@ -166,6 +166,15 @@
       "github":"Amardeep1792",
       "skills": ["python", "c"],
       "bio": "Beginner and learner"
+    },
+    {
+      "id": 25,
+      "name": "Suporno Maiti",
+      "role": "Student",
+      "avatar":"https://avatars.githubusercontent.com/u/145287218",
+      "github":"SupornoMaiti",
+      "skills": ["C", "C++", "Java"],
+      "bio": "Love building projects"
     }
   ]
 }
