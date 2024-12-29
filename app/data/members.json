@@ -143,6 +143,15 @@
       "github": "10112004Dipon",
       "skills": ["HTML","CSS", "Python"],
       "bio": "Student"
+    },
+    {
+      "id": 16,
+      "name": "Rupayan Das",
+      "role": "student at Makaut",
+      "avatar": "https://avatars.githubusercontent.com/u/178875592?v=4",
+      "github": "Rupayan-san",
+      "skills": ["Python", "JS"],
+      "bio": "Undergraduate"
     }
   ]
 }
