@@ -29,12 +29,12 @@
     },
     {
       "id": 4,
-      "name": "Snehasis Ghosh",
-      "role": "Student at MAKAUT,WB  Btech CSE",
-      "avatar":"https://avatars.githubusercontent.com/u/185935753?v=4",
-      "github":"SnehasisGh0sh",
-      "skills": ["HTML", "CSS","Python"],
-      "bio": "Beginner"
+      "name": "David Kim",
+      "role": "DevOps Engineer",
+      "avatar": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?q=80&w=200&h=200",
+      "github": "davidops",
+      "skills": ["Docker", "Kubernetes", "AWS"],
+      "bio": "Automating everything that can be automated"
     },
     {
       "id": 5,
@@ -52,7 +52,34 @@
       "avatar": "https://avatars.githubusercontent.com/u/183818111?v=4&size=64",
       "github": "pappu598",
       "skills": ["c++"],
+      "bio": "Quick Learn"
+    },
+ {
+      "id":7,
+      "name":"Dipon Mitra",
+      "role":"student",
+      "avatar":"https://avatars.githubusercontent.com/u/185927877?v=4&size=64",
+      "github":"10112004Dipon",
+      "skills":["Python","HTML","CSS"],
+      "bio":".."
+    },
+{
+      "id":8,
+      "name": "Snehasis Ghosh",
+      "role": "Student at MAKAUT,WB  Btech CSE",
+      "avatar":"https://avatars.githubusercontent.com/u/185935753?v=4",
+      "github":"SnehasisGh0sh",
+      "skills": ["HTML", "CSS","Python"],
       "bio": "Quick Learner"
+    },
+    {
+      "id": 33,
+      "name": "Sheetal Bajaj",
+      "role": "Student",
+      "avatar": "https://avatars.githubusercontent.com/u/183822317?v=4",
+      "github": "Sheetal-cell",
+      "skills": ["c++","web dev","DSA"],
+      "bio": " As Beginner"
     },
     {
       "id": 7,
@@ -63,6 +90,7 @@
       "skills": ["Next.js", "React", "TypeScript", "JavaScript", "C++"],
       "bio": "Love building products"
     },
+
     { "id": 8,
     "name": "Amardeep kumar",
     "role": "Student",
@@ -71,5 +99,71 @@
     "skills": ["Python"],
     "bio": "Beginner and learner"
    }
+
+    {
+      "id": 9,
+      "name": "Shreyaushi Das",
+      "role": "Student at MAKAUT,WB IT",
+      "avatar":"https://avatars.githubusercontent.com/u/185457484?v=4",
+      "github":"shreyaushi-Das",
+      "skills": ["java", "c++"],
+      "bio": "Btech IT student,interested in python,ml"
+    },
+    {
+      "id": 8,
+      "name": "Debopam Sarkar",
+      "role": "B. Tech Student at MAKAUT",
+      "avatar": "https://avatars.githubusercontent.com/u/185925239?v=4",
+      "github": "debopam525",
+      "skills": ["Java"],
+      "bio": "Student"
+    },
+    {
+      "id": 10,
+      "name": "Prolayjit Biswas",
+      "role": "B.Tech Student at MAKAUT, WB",
+      "avatar": "https://avatars.githubusercontent.com/u/181266798?v=4",
+      "github": "Prolayjit-B14",
+      "skills": ["c/C++"],
+      "bio": "Fresher"
+    },
+    {
+      "id": 11,
+      "name": "Abhra Roy",
+      "role": "B.Tech Student at MAKAUT, WB",
+      "avatar": "https://avatars.githubusercontent.com/u/181045335?v=4",
+      "github": "Abhra5002",
+      "skills": ["HTML, CSS, JS"],
+      "bio": "Student"
+    },
+    {
+      "id": 12,
+      "name": "Ankita Sarkar",
+      "role": "student at Makaut",
+      "avatar": "https://avatars.githubusercontent.com/u/187500278?v=4",
+      "github": "Ankita1305del",
+      "skills": ["HTML","CSS", "Python"],
+      "bio": "Student"
+    },
+    {
+      "id": 15,
+      "name": "Dipon Mitra",
+      "role": "student at Makaut",
+      "avatar": "https://wallpaperaccess.com/full/2111331.jpg",
+      "github": "10112004Dipon",
+      "skills": ["HTML","CSS", "Python"],
+      "bio": "Student"
+    },
+    {
+      "id": 16,
+      "name": "Rupayan Das",
+      "role": "student at Makaut",
+      "avatar": "https://avatars.githubusercontent.com/u/178875592?v=4",
+      "github": "Rupayan-san",
+      "skills": ["Python", "JS"],
+      "bio": "Undergraduate"
+    }
+>>>>>>> a4207ff16948f6e0da12155027b2451b78fdbb07
   ]
 }
+
