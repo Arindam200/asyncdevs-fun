@@ -91,14 +91,8 @@
       "bio": "Love building products"
     },
 
-    { "id": 8,
-    "name": "Amardeep kumar",
-    "role": "Student",
-    "avatar": "https://avatars.githubusercontent.com/u/90820614?s=400&v=4",
-    "github": "Amardeep1792",
-    "skills": ["Python"],
-    "bio": "Beginner and learner"
-   },
+    
+   
 
     {
       "id": 9,
@@ -162,6 +156,16 @@
       "github": "Rupayan-san",
       "skills": ["Python", "JS"],
       "bio": "Undergraduate"
+    },
+    
+    {
+      "id": 17,
+      "name": "Amardeep kumar",
+      "role": "Student ",
+      "avatar":"https://avatars.githubusercontent.com/u/90820614?s=400&v=4",
+      "github":"Amardeep1792",
+      "skills": ["python", "c"],
+      "bio": "Beginner and learner"
     }
   ]
 }
