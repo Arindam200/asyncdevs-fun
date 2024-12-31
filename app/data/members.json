@@ -175,6 +175,15 @@
       "github":"SupornoMaiti",
       "skills": ["C", "C++", "Java"],
       "bio": "Love building projects"
+    },
+    {
+      "id": 26,
+      "name": "Abhishek Choubey",
+      "role": "Student",
+      "avatar":"https://avatars.githubusercontent.com/u/185954409?v=4&size=64",
+      "github":"Abhishek-1710",
+      "skills": ["Java", "HTML, CSS, JS"],
+      "bio": "Beginner and learner"
     }
   ]
 }
