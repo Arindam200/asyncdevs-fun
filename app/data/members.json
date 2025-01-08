@@ -184,7 +184,17 @@
       "github":"Abhishek-1710",
       "skills": ["Java", "HTML, CSS, JS"],
       "bio": "Beginner and learner"
+    },
+    {
+      "id": 27,
+      "name": "Ankit Kumar",
+      "role": "Student",
+      "avatar":"https://avatars.githubusercontent.com/u/190005626?s=400&u=de47c6d8830149ca09da6eeb38765e9ad4146e1a&v=4",
+      "github":"ankitkumar181",
+      "skills": ["c", "c++", "python"],
+      "bio": "Beginner and learner"
     }
+    
   ]
 }
 
