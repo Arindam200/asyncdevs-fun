@@ -184,6 +184,15 @@
       "github":"Abhishek-1710",
       "skills": ["Java", "HTML, CSS, JS"],
       "bio": "Beginner and learner"
+    },
+    {
+      "id": 44,
+      "name": "Sonam Kumari",
+      "role": "B.Tech(IT) First Year Student at MAKAUT, WB",
+      "avatar": "https://avatars.githubusercontent.com/u/185925326?s=400&v=4",
+      "github": "SONAM0806",
+      "skills": ["C/C++","HTML","CSS"],
+      "bio": "Fresher"
     }
   ]
 }
